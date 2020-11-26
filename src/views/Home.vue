@@ -3,13 +3,6 @@
     <p>{{ message }}</p>
     <v-avatar color="warning lighten-2" size="56">ML</v-avatar>
     <v-btn small color="#ff0000de" rounded @click="changeType">Change</v-btn>
-    <Corentin :type="aType" />
-    <Corentin />
-    <Corentin />
-    <Corentin />
-    <Corentin />
-    <Corentin />
-    <Corentin />
     <Corentin />
     <Television />
     <button @click="changeVariable">Change ma variable</button>
